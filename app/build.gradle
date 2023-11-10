@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace 'com.example.tarea21_pmi'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.example.tarea21_pmi"
